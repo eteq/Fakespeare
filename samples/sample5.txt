@@ -1,6 +1,31 @@
+
+mapping: 
+Erik:
+* CHAR27 
+* CHAR15 
+* CHAR12
+
+Diana:
+* CHAR11
+* CHAR2
+* CHAR18
+
+Niall:
+* CHAR13
+* CHAR10
+
+Josh:
+* CHAR0
+* CHAR17
+
+Eduard:
+* CHAR3
+* CHAR7
+
 <scene>
 
 _Enter CHAR10_
+
 
 **CHAR10**
 
