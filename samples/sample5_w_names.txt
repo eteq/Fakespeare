@@ -1,6 +1,6 @@
-<scene>
+<all others in a tavern, seated around the table with laptops>
 
-_Enter Niall_
+<Enter Niall>
 
 
 **Niall**
@@ -24,6 +24,8 @@ For the good neck's traitors in the sun's
 I have the such a sight of the time that  
 I think we shall not think the beard  
 good grave.  
+
+<Niall sits>
 
 **Edduard**
 
@@ -249,4 +251,3 @@ That is our sword.
 **Edduard**
 
 No,
-
